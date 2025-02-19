@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "67a52077a690b4301ced69eb"
+  },
+  "name": "Nike Men's Running Shoes Air Max Excee",
+  "description": "Designed for comfortable wear for sports and street style, NIKE is always fun to wear. Upgrade in style with a wide range from the world’s leading and much-loved sports brand, NIKE.",
+  "price": 459,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738874998/products/nwhylmz3fpior1cnn0jr.jpg",
+  "category": "shoes",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-06T20:49:59.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T19:09:36.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a662f18b20fb471f7bd02b"
+  },
+  "name": "Court Gamer Sneakers For Men",
+  "description": "PRODUCT STORY: Crafted with fine technology and futuristic design, PUMA shoe is surely here to uplift your style and track games. Kick off on street and field in this shoe from the worlds leading and much-loved sports brand.",
+  "price": 150,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738957553/products/pvks979gbfuhs39yd6of.jpg",
+  "category": "shoes",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T19:45:53.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T19:45:53.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a664048b20fb471f7bd030"
+  },
+  "name": "Zod Runner V3 Sneakers For Men",
+  "description": "PRODUCT STORY: The Zod Runner V3 shoes are exclusively designed for the running enthusiast who looks for ease and style. The fully mesh upper offers breathability to the shoes for long-running sessions. The EVA midsole of the shoe is embedded with PUMA Propel Foam technology for plush cushioning. The lace closure and pull tab enable perfect fit. This lightweight shoe has the luring chiselled structure complementing the sporty quotient of the silhouette.DETAILS Fully mesh upper for breathability EVA midsole offers lightness Rubber outsole offers tenacity PUMA wordmark on the lateral sidesFEATURES + BENEFITS PROPEL FOAM: Super plush and cushioned. Lightweight injection-moulded EVA midsole for a smooth ride - Disclaimer : Colour of the insole in the picture may differ /vary for the product.",
+  "price": 19.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738957828/products/bdooqpleznpp7bc5anky.jpg",
+  "category": "shoes",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T19:50:28.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T19:50:28.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a664c28b20fb471f7bd039"
+  },
+  "name": "Sparx  SM 784 | Stylish, Comfortable | Sneakers For Men",
+  "description": "Flaunt with these stylish and unique casual shoes as per the latest fashion trend from the house of Sparx. Super comfortable casual shoes with Fabric as upper material and Pre Moulded Rubber as sole material.",
+  "price": 10.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738958019/products/z1vceeflznepxtaersxk.jpg",
+  "category": "shoes",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T19:53:38.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:13.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a666808b20fb471f7bd044"
+  },
+  "name": "HIGHLANDER  Men Solid Hooded Neck Cotton Blend Grey T-Shirt",
+  "description": "Type\nHooded Neck\nSleeve\nHalf Sleeve\nFit\nOversized\nFabric\nCotton Blend\nSales Package\nMen, T-Shirt\nPack of\n1\nStyle Code\nHLTS003771\nNeck Type\nHooded Neck\nIdeal For\nMen\nSize\nS\nPattern\nSolid\nSuitable For\nWestern Wear\nReversible\nNo\nFabric Care\nGentle Machine Wash\nNet Quantity\n1\nMen Highlander OVER SIZED GREY T-Shirt",
+  "price": 4.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738958464/products/wghasqc5ntsedwzozw8h.jpg",
+  "category": "t-shirts",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:01:04.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:01:04.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a667a48b20fb471f7bd04a"
+  },
+  "name": "HIGHLANDER  Popcorn Structured Men Solid Round Neck Cotton Blend Brown T-Shirt",
+  "description": "Type\nRound Neck\nSleeve\nShort Sleeve\nFit\nOversized\nFabric\nCotton Blend\nSales Package\nT-Shirt\nPack of\n1\nStyle Code\nHLTS002871\nNeck Type\nRound Neck\nIdeal For\nMen\nSize\nL\nPattern\nSolid\nSuitable For\nWestern Wear\nReversible\nNo\nFabric Care\nGentle Machine Wash\nNet Quantity\n1\nHighlander Men OVER SIZED Solid+ COFFEE BROWN T-Shirt",
+  "price": 2.49,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738958756/products/zbjicji5skx0yslq5qrl.jpg",
+  "category": "t-shirts",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:05:56.293Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:05:56.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6687a8b20fb471f7bd04d"
+  },
+  "name": "HIGHLANDER Men Striped Polo Neck Poly Cotton Multicolor T-Shirt",
+  "description": "Type\nPolo Neck\nSleeve\nShort Sleeve\nFit\nSlim\nFabric\nPoly Cotton\nSales Package\n1\nPack of\n1\nStyle Code\nMENS CAMEL CHEKS ZIPPER T-SHIRT\nNeck Type\nPolo Neck\nIdeal For\nMen\nSize\nM\nPattern\nStriped\nSuitable For\nWestern Wear\nReversible\nNo\nFabric Care\nMachine wash as per tag\nNet Quantity\n1\nMENS POLO NECK STRIPTED T-SHIRT WITH ZIPPER PREMIUM QUALITY BRAND STITCHING CASUAL&PARTY WEAR",
+  "price": 3.69,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738958970/products/rkuweao9okuaabmyfsac.jpg",
+  "category": "t-shirts",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:19.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66a628b20fb471f7bd071"
+  },
+  "name": "Men's 527 Slim Bootcut Fit Black Jeans",
+  "description": "Want a fashion upgrade to your look? Start with these comfy black Levi's jeans. Made from premium cotton-poly blend fabric, this slim bootcut fit denim delivers style with immense comfort. Long lasting perfect full length pair.\n\n1. Style it with our shirt or t-shirt, it never disappoints!\n2. A mid-rise, no fade jeans",
+  "price": 29.49,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738959458/products/fce07xlki1mycgjurzn8.avif",
+  "category": "jeans",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:17:38.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:24.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66ac18b20fb471f7bd074"
+  },
+  "name": "Men's 511 Dark Indigo Slim Fit Jeans",
+  "description": "A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.\n\n1. These jeans sit low waist with a slim fit from hip to ankle.\n2. It is woven, with a hint of stretch, to deliver maximum comfort.\n3. Cut close to the body, the 511 slim is a great alternative to the skinny jeans.",
+  "price": 15.97,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738959553/products/tzb1t7gexfilogpxzmmv.avif",
+  "category": "jeans",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:19:13.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:19:13.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66b148b20fb471f7bd077"
+  },
+  "name": "Men's 527 Slim Bootcut Fit Blue Jeans",
+  "description": "Excited about the day & don't know what to wear? Don't worry, we got you covered! This staple pair comes in a beautiful hue of blue & medium fade look. A mid rise comfy pair with button & zip fastening.\n\n1. The full length versatile jeans\n2. Pair with our t-shirt, this is sure to elevate your confidence!",
+  "price": 23.56,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738959636/products/sw1vjqwx0cpyiztajpip.avif",
+  "category": "jeans",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:20:36.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:26.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66b638b20fb471f7bd07a"
+  },
+  "name": "Men's 511 Slim Fit Black Jeans",
+  "description": "A modern slim with room to move, the 511 Slim Fit Stretch Jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a modal fabric with the right amount of stretch, these black jeans in solid pattern can be paired with most things to create a super cool outfit.\n\n1. These jeans sit mid waist with a slim fit from hip to ankle.\n2. It is woven, with a hint of stretch, to deliver maximum comfort.\n3. Cut close to the body, the 511 Slim is a great alternative to the skinny jeans.",
+  "price": 29.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738959715/products/juiseobxkaomh5ut6qkk.avif",
+  "category": "jeans",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:21:55.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:21:55.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66c0c8b20fb471f7bd087"
+  },
+  "name": "Snitch Men Wayfarer Sunglasses with UV Protected Lens SN0052",
+  "description": "Cheetah Print Black Sunglasses feature sleek black fiber frames and dark tinted lenses that offer superior UV protection. The durable fiber frame ensures a comfortable fit, making these sunglasses perfect for any sunny day. Pair them with casual or street wear for a stylish look.\n\nLens Colour: black\nFrame Colour: black\nStyle: full rim\nType: wayfarer sunglasses\nFrame Material: plastic\nBest suited for square face\nComes in a Snitch soft pouch",
+  "price": 23.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738959883/products/y2z63phwagzzowogocrl.png",
+  "category": "glasses",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:24:44.025Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:24:44.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66c638b20fb471f7bd08a"
+  },
+  "name": "Mast & Harbour Men Black Lens & Silver-Toned Sunglasses With UV Protected Lens",
+  "description": "Lens Colour: black\nFrame Colour: silver-toned\nType: other sunglasses\nFrame Material: metal\nBest suited for diamond face",
+  "price": 27.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738959971/products/z3eisjor8pk9utotkz95.png",
+  "category": "glasses",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:26:11.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:26:11.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66ce68b20fb471f7bd091"
+  },
+  "name": "Eyewearlabs Unisex Rectangle Sunglasses with Polarised Lens ELKASKoby",
+  "description": "Lens Colour: black\nFrame Colour: black\nStyle: full rim\nType: rectangle sunglasses\nFrame Material: polycarbonate\nBest suited for round face\nComes in a Eyewearlabs hard case",
+  "price": 21.43,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960102/products/ogarcueyy6qpdqf4mep3.png",
+  "category": "glasses",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:28:22.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:32.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66d348b20fb471f7bd094"
+  },
+  "name": "Voyage Unisex Wayfarer Sunglasses with UV Protected Lens 86367MG5175",
+  "description": "Lens Colour: black\nFrame Colour: black\nStyle: full rim\nType: wayfarer sunglasses\nFrame Material: plastic\nBest suited for oval face\nComes in a Voyage hard case",
+  "price": 25.64,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960179/products/dzdewmbx92u4gqovw47s.png",
+  "category": "glasses",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:29:40.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:30.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66dbf8b20fb471f7bd0a1"
+  },
+  "name": "Kotty Spread Collar Washed Crop Denim Jacket",
+  "description": "Black washed denim jacket, has a spread collar, 2 pockets, has a button closure, long sleeves, straight hemline, without lining",
+  "price": 12.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960319/products/qtfwq6xaq9o3i9dg8tpt.jpg",
+  "category": "jackets",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:31:59.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:31:59.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66e188b20fb471f7bd0a4"
+  },
+  "name": "Mast & Harbour Men Pure Cotton Denim Jacket",
+  "description": "Blue solid denim jacket, has a spread collar, 4 pockets ,has a button closure, long sleeves, straight hemline, without lining",
+  "price": 14.55,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960408/products/ui0l9kivtnlydu6pxyvo.jpg",
+  "category": "jackets",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:33:28.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:37.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66e8f8b20fb471f7bd0a7"
+  },
+  "name": "Blackberrys Men 2-Piece Checked Slim-Fit Single-Breasted Formal Suit",
+  "description": "Navy blue checkered slim-fit formal suit\nNavy blue checkered slim-fit formal blazer, has a notched lapel collar, single-breasted with double button closures, long sleeves, two flap pockets, one chest welt pocket, an attached lining and a double vented back hem\nNavy blue checkered slim-fit formal trousers, has a waistband with belt loops, zip fly with a button closure",
+  "price": 2999.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960527/products/muzalggb4cjfsgjk3dlt.jpg",
+  "category": "suits",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:35:27.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:41.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66ee58b20fb471f7bd0aa"
+  },
+  "name": "Arrow Double-Breasted Three-Piece Formal Suit",
+  "description": "Grey formal suit with waistcoat, blazers, and trousers\nGrey solid regular-fit blazer, has a notched lapel, double-breasted with double button closures, long sleeves, one welt pocket, and two flap pockets, and a single-vented back hem\nGrey solid mid-rise trousers, has a zip fly with a button and a hook-and-bar closure, four pockets, a waistband with belt loops\nGrey solid waistcoat, has a round neack, a full button placket, sleeveless, and three pockets",
+  "price": 3599.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960612/products/qwpo21utcp8199f53olv.jpg",
+  "category": "suits",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2025-02-07T20:36:53.849Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:36:53.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66f7d8b20fb471f7bd0b1"
+  },
+  "name": "Red Tape Unisex 16 Inch Laptop Backpack",
+  "description": "Black solid fashion backpacks\nPadded ergonomic shoulder straps, has padded haul loop\n2 main compartment with zip closure, has padded laptop compartment,\n1 zip pocket, 1 stash pocket\nPadded back\nWater Resistance: no\nWarranty: 1 year\nWarranty provided by brand owner/manufacturer",
+  "price": 7.49,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960765/products/b1ck4mxgendhp8ix1zin.jpg",
+  "category": "bags",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:39:25.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:50:36.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a66f9e8b20fb471f7bd0b4"
+  },
+  "name": "Puma Unisex Super PUMA Printed 14 Inch Laptop Backpack",
+  "description": "Black printed backpack\nTwo main compartment with zip closure\nTwo stash pockets\nOne external zip pocket\nOne top Handle\nPadded shoulder straps\nOne laptop compartment\nPUMA Cat Logo patch on the front\nWarranty: 3 Months\nWarranty provided by the manufacturer",
+  "price": 19.99,
+  "image": "https://res.cloudinary.com/dlytk9vqr/image/upload/v1738960798/products/migukrds4jeb61esydeb.jpg",
+  "category": "bags",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2025-02-07T20:39:58.860Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T20:40:39.645Z"
+  },
+  "__v": 0
+}]
